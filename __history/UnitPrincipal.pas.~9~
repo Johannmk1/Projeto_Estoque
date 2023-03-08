@@ -16,6 +16,7 @@ type
     Movimentaes1: TMenuItem;
     Gerenciarmovimentaes1: TMenuItem;
     ConsultarMovimentaes1: TMenuItem;
+    Button1: TButton;
     procedure Sair1Click(Sender: TObject);
     procedure CadastrodeProdutos1Click(Sender: TObject);
     procedure Gerenciarmovimentaes1Click(Sender: TObject);

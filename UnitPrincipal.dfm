@@ -15,17 +15,6 @@ object formPrincipal: TformPrincipal
   WindowState = wsMaximized
   PixelsPerInch = 96
   TextHeight = 13
-  object Button1: TButton
-    Left = 0
-    Top = 0
-    Width = 966
-    Height = 671
-    Align = alClient
-    Caption = 'Geranciar movimenta'#231#245'es'
-    TabOrder = 0
-    OnClick = Button1Click
-    ExplicitLeft = 8
-  end
   object MainMenu1: TMainMenu
     Left = 392
     Top = 192
