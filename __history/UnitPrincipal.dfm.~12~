@@ -21,10 +21,10 @@ object formPrincipal: TformPrincipal
     Width = 966
     Height = 671
     Align = alClient
-    Caption = 'Geranciar movimenta'#231#245'es'
     TabOrder = 0
     OnClick = Button1Click
-    ExplicitLeft = 8
+    ExplicitWidth = 969
+    ExplicitHeight = 673
   end
   object MainMenu1: TMainMenu
     Left = 392
