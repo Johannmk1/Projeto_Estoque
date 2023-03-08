@@ -133,10 +133,14 @@ object formCadProdutos: TformCadProdutos
   end
   object Panel1: TPanel
     Left = 0
-    Top = -14
-    Width = 993
+    Top = 0
+    Width = 996
     Height = 119
+    Align = alTop
     TabOrder = 4
+    ExplicitLeft = -5
+    ExplicitTop = -14
+    ExplicitWidth = 998
     object Label1: TLabel
       Left = 44
       Top = 51

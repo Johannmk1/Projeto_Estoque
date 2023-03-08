@@ -205,7 +205,7 @@ object formCadMovimentacao: TformCadMovimentacao
       ParentFont = False
     end
     object Label4: TLabel
-      Left = 39
+      Left = 47
       Top = 426
       Width = 152
       Height = 19
@@ -231,7 +231,7 @@ object formCadMovimentacao: TformCadMovimentacao
       ParentFont = False
     end
     object txtTotalProdutos: TLabel
-      Left = 205
+      Left = 213
       Top = 426
       Width = 20
       Height = 19
