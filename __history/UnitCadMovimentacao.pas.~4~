@@ -1,0 +1,38 @@
+unit UnitCadMovimentacao;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.DBCtrls, Vcl.Mask,
+  Vcl.ExtCtrls, Data.DB, Vcl.Grids, Vcl.DBGrids;
+
+type
+  TformCadMovimentacao = class(TForm)
+    Label1: TLabel;
+    LinkLabel1: TLinkLabel;
+    DBComboBox1: TDBComboBox;
+    DBEdit1: TDBEdit;
+    DBEdit2: TDBEdit;
+    DBMemo1: TDBMemo;
+    LinkLabel2: TLinkLabel;
+    LinkLabel3: TLinkLabel;
+    LinkLabel4: TLinkLabel;
+    DBNavigator1: TDBNavigator;
+    DBGrid1: TDBGrid;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  formCadMovimentacao: TformCadMovimentacao;
+
+implementation
+
+{$R *.dfm}
+
+uses UnitDM;
+
+end.

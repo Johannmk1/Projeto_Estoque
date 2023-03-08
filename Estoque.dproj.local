@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/02 16:44:45.000.093,=C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 16:46:23.000.968,=C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/03 13:39:59.000.330,=C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/03 14:14:48.000.136,C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\1\Desktop\AulaEstoque\UnitPrincipal.dfm</Transaction>
+    <Transaction>2023/03/03 14:14:48.000.136,C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\1\Desktop\AulaEstoque\UnitPrincipal.pas</Transaction>
+    <Transaction>2023/03/03 14:14:55.000.893,C:\Users\1\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\1\Desktop\AulaEstoque\Estoque.dproj</Transaction>
+    <Transaction>2023/03/03 14:16:44.000.522,=C:\Users\1\Desktop\AulaEstoque\Unit1.pas</Transaction>
+    <Transaction>2023/03/03 14:18:14.000.198,C:\Users\1\Desktop\AulaEstoque\Unit1.pas=C:\Users\1\Desktop\AulaEstoque\UnitCadProduto.pas</Transaction>
+    <Transaction>2023/03/03 14:18:14.000.198,C:\Users\1\Desktop\AulaEstoque\Unit1.dfm=C:\Users\1\Desktop\AulaEstoque\UnitCadProduto.dfm</Transaction>
+    <Transaction>2023/03/03 14:18:22.000.083,=C:\Users\1\Desktop\AulaEstoque\Unit1.pas</Transaction>
+    <Transaction>2023/03/03 14:18:43.000.387,C:\Users\1\Desktop\AulaEstoque\Unit1.pas=C:\Users\1\Desktop\AulaEstoque\UnitCadMovimentacao.pas</Transaction>
+    <Transaction>2023/03/03 14:18:43.000.387,C:\Users\1\Desktop\AulaEstoque\Unit1.dfm=C:\Users\1\Desktop\AulaEstoque\UnitCadMovimentacao.dfm</Transaction>
+    <Transaction>2023/03/03 14:19:37.000.851,=C:\Users\1\Desktop\AulaEstoque\Unit1.pas</Transaction>
+    <Transaction>2023/03/03 14:20:42.000.519,C:\Users\1\Desktop\AulaEstoque\Unit1.pas=C:\Users\1\Desktop\AulaEstoque\UnitConsMovimentacao.pas</Transaction>
+    <Transaction>2023/03/03 14:20:42.000.519,C:\Users\1\Desktop\AulaEstoque\Unit1.dfm=C:\Users\1\Desktop\AulaEstoque\UnitConsMovimentacao.dfm</Transaction>
+    <Transaction>2023/03/03 14:29:26.000.083,=C:\Users\1\Desktop\AulaEstoque\Unit1.pas</Transaction>
+    <Transaction>2023/03/03 14:33:15.000.209,C:\Users\1\Desktop\AulaEstoque\Unit1.pas=C:\Users\1\Desktop\AulaEstoque\UnitDM.pas</Transaction>
+    <Transaction>2023/03/03 14:33:15.000.209,C:\Users\1\Desktop\AulaEstoque\Unit1.dfm=C:\Users\1\Desktop\AulaEstoque\UnitDM.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
