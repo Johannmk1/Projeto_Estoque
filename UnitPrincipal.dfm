@@ -15,6 +15,17 @@ object formPrincipal: TformPrincipal
   WindowState = wsMaximized
   PixelsPerInch = 96
   TextHeight = 13
+  object Button1: TButton
+    Left = 0
+    Top = 0
+    Width = 966
+    Height = 671
+    Align = alClient
+    TabOrder = 0
+    OnClick = Button1Click
+    ExplicitWidth = 969
+    ExplicitHeight = 673
+  end
   object MainMenu1: TMainMenu
     Left = 392
     Top = 192

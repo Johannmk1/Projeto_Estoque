@@ -4,7 +4,7 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, Vcl.StdCtrls;
 
 type
   TformPrincipal = class(TForm)
@@ -16,10 +16,12 @@ type
     Movimentaes1: TMenuItem;
     Gerenciarmovimentaes1: TMenuItem;
     ConsultarMovimentaes1: TMenuItem;
+    Button1: TButton;
     procedure Sair1Click(Sender: TObject);
     procedure CadastrodeProdutos1Click(Sender: TObject);
     procedure Gerenciarmovimentaes1Click(Sender: TObject);
     procedure ConsultarMovimentaes1Click(Sender: TObject);
+    procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -34,6 +36,11 @@ implementation
 {$R *.dfm}
 
 uses UnitCadProduto, UnitCadMovimentacao, UnitConsMovimentacao;
+
+procedure TformPrincipal.Button1Click(Sender: TObject);
+begin
+   formCadMovimentacao.ShowModal;
+end;
 
 procedure TformPrincipal.CadastrodeProdutos1Click(Sender: TObject);
 begin
